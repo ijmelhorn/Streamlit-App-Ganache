@@ -19,21 +19,21 @@ Integrating the two files will enable automation of these tasks:
 ## Streamlit Application Interface ##
 Selecting candidate and inputting amount of hours for hire:
 
-![An image showing Streamlit interface.](Images/Ash_selection.png)
+![An image showing Streamlit interface.](/Images/Ash_selection.png)
 
 Sending successful payment transaction:
 
-![An image showing Streamlit interface.](Images/Ash_tx.png)
+![An image showing Streamlit interface.](/Images/Ash_tx.png)
 
 ## Ganache Account ##
 Account balance before payment:
 
-![An image showing Ganache.](Images/Ganache_balance_start.png)
+![An image showing Ganache.](/Images/Ganache_balance_start.png)
 
 Transaction details:
 
-![An image showing Ganache.](Images/Ganache_tx.png)
+![An image showing Ganache.](/Images/Ganache_tx.png)
 
 Account balance after payment:
 
-![An image showing Ganache.](Images/Ganache_balance_end.png)
+![An image showing Ganache.](/Images/Ganache_balance_end.png)
