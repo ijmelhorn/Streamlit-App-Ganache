@@ -19,7 +19,7 @@ Integrating the two files will enable automation of these tasks:
 ## Streamlit Application Interface ##
 Selecting candidate and inputting amount of hours for hire:
 
-![An image showing Streamlit interface.](/Images/Ash_selection.png)
+<img src="Images/Ash_selection.png" width="800" /> ![](Images/Ash_selection.png)
 
 Sending successful payment transaction:
 
