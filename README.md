@@ -16,24 +16,17 @@ Integrating the two files will enable automation of these tasks:
 
 - Review the transaction hash associated with the validated blockchain transaction.
 
-## Streamlit Application Interface ##
-Selecting candidate and inputting amount of hours for hire:
+## Streamlit Application and Ganache ##
+See the folder below for the following images:
 
-<img src="Images/Ash_selection.png" width="800" /> ![](Images/Ash_selection.png)
+[Images](Images)
 
-Sending successful payment transaction:
+- Selecting candidate and inputting amount of hours for hire in Streamlit.
 
-![An image showing Streamlit interface.](/Images/Ash_tx.png)
+- Sending successful payment transaction in Streamlit.
 
-## Ganache Account ##
-Account balance before payment:
+- Account balance before payment in Ganache.
 
-![An image showing Ganache.](/Images/Ganache_balance_start.png)
+- Transaction details in Ganache.
 
-Transaction details:
-
-![An image showing Ganache.](/Images/Ganache_tx.png)
-
-Account balance after payment:
-
-![An image showing Ganache.](/Images/Ganache_balance_end.png)
+- Account balance after payment in Ganache.
