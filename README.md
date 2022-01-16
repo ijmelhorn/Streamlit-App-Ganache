@@ -23,6 +23,8 @@ See the folder below for the following images:
 
 - Selecting candidate and inputting amount of hours for hire in Streamlit.
 
+ ![x](/Images/Ganache_tx.PNG)
+
 - Sending successful payment transaction in Streamlit.
 
 - Account balance before payment in Ganache.
